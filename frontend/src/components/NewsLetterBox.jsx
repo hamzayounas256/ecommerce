@@ -17,7 +17,7 @@ export default function NewsLetterBox() {
 				<input
 					className="w-full sm:flex-1 outline-none"
 					type="email"
-					placeholder="Enter your email"
+					placeholder="Enter your email."
 					required
 				/>
 				<button
